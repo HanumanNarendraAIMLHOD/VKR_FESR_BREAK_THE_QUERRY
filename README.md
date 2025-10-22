@@ -81,7 +81,7 @@ INSERT INTO Employees VALUES
 9. Increase salary of all employees in `Tata` by 5,000.
 10. Delete employees with salary less than 65,000.
 ---
-### Tough (2 Queries)
+### Tough (4 Queries)
 
 11. Display the top 3 highest-paid employees in the `IT` department.
 12. Find companies where the **average salary of male employees is greater than 75,000**.
