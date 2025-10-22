@@ -85,5 +85,7 @@ INSERT INTO Employees VALUES
 
 11. Display the top 3 highest-paid employees in the `IT` department.
 12. Find companies where the **average salary of male employees is greater than 75,000**.
+13. Display employees whose salary is above the average salary of their department.
+14. Display the highest-paid employee in each company.
 
 ---
